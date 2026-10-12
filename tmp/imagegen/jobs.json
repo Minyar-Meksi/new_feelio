@@ -1,0 +1,852 @@
+[
+  {
+    "asset_name": "scene_talk_nook_land",
+    "prompt": "Create an image. Opaque, in the size and shape given. I attached our approved meadow scene: match its art style, colours, light and level of detail exactly. a cosy little nook at dusk: a round window with a deep lilac evening sky and first stars, a big soft floor cushion, a warm glowing lamp to one side, a few hanging paper stars. Quiet and safe. Keep the middle of the picture calm and open: our app puts characters, words and buttons there, so no important detail in the centre and nothing busy behind it. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1536x1024 pixels as a PNG at the highest available quality.",
+    "references": [
+      "assets/approved/world/scene_meadow_land.png"
+    ],
+    "output_path": "assets/approved/world/scene_talk_nook_land.png",
+    "width": 1536,
+    "height": 1024,
+    "transparent_background": false
+  },
+  {
+    "asset_name": "scene_talk_nook_port",
+    "prompt": "Create an image. Opaque, in the size and shape given. I attached our approved meadow scene: match its art style, colours, light and level of detail exactly. a cosy little nook at dusk: a round window with a deep lilac evening sky and first stars, a big soft floor cushion, a warm glowing lamp to one side, a few hanging paper stars. Quiet and safe. Keep the middle of the picture calm and open: our app puts characters, words and buttons there, so no important detail in the centre and nothing busy behind it. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Recompose the attached matching landscape scene into portrait; preserve the room, objects, colours and lighting, with the same calm open centre. Output exactly 1024x1536 pixels as a PNG at the highest available quality.",
+    "references": [
+      "assets/approved/world/scene_meadow_land.png",
+      "assets/approved/world/scene_talk_nook_land.png"
+    ],
+    "output_path": "assets/approved/world/scene_talk_nook_port.png",
+    "width": 1024,
+    "height": 1536,
+    "transparent_background": false
+  },
+  {
+    "asset_name": "scene_story_stage_land",
+    "prompt": "Create an image. Opaque, in the size and shape given. I attached our approved meadow scene: match its art style, colours, light and level of detail exactly. the inside of a small, friendly puppet theatre hall seen from the audience: deep plum walls, warm amber wall lamps, rose velvet drapes gathered at the far left and right edges, the tops of a few round seats along the very bottom. NO stage in the middle: the middle is a plain, softly lit plum wall. Keep the middle of the picture calm and open: our app puts characters, words and buttons there, so no important detail in the centre and nothing busy behind it. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1536x1024 pixels as a PNG at the highest available quality.",
+    "references": [
+      "assets/approved/world/scene_meadow_land.png"
+    ],
+    "output_path": "assets/approved/world/scene_story_stage_land.png",
+    "width": 1536,
+    "height": 1024,
+    "transparent_background": false
+  },
+  {
+    "asset_name": "scene_story_stage_port",
+    "prompt": "Create an image. Opaque, in the size and shape given. I attached our approved meadow scene: match its art style, colours, light and level of detail exactly. the inside of a small, friendly puppet theatre hall seen from the audience: deep plum walls, warm amber wall lamps, rose velvet drapes gathered at the far left and right edges, the tops of a few round seats along the very bottom. NO stage in the middle: the middle is a plain, softly lit plum wall. Keep the middle of the picture calm and open: our app puts characters, words and buttons there, so no important detail in the centre and nothing busy behind it. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Recompose the attached matching landscape scene into portrait; preserve the room, objects, colours and lighting, with the same calm open centre. Output exactly 1024x1536 pixels as a PNG at the highest available quality.",
+    "references": [
+      "assets/approved/world/scene_meadow_land.png",
+      "assets/approved/world/scene_story_stage_land.png"
+    ],
+    "output_path": "assets/approved/world/scene_story_stage_port.png",
+    "width": 1024,
+    "height": 1536,
+    "transparent_background": false
+  },
+  {
+    "asset_name": "scene_library_land",
+    "prompt": "Create an image. Opaque, in the size and shape given. I attached our approved meadow scene: match its art style, colours, light and level of detail exactly. a warm, cosy children's library room: cream walls with soft stripes, a round window with daylight, a reading rug, a little ladder and plants at the sides, warm honey wood floor. NO bookshelves in the middle: the middle is a plain cream wall (our shelves go there). Keep the middle of the picture calm and open: our app puts characters, words and buttons there, so no important detail in the centre and nothing busy behind it. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1536x1024 pixels as a PNG at the highest available quality.",
+    "references": [
+      "assets/approved/world/scene_meadow_land.png"
+    ],
+    "output_path": "assets/approved/world/scene_library_land.png",
+    "width": 1536,
+    "height": 1024,
+    "transparent_background": false
+  },
+  {
+    "asset_name": "scene_library_port",
+    "prompt": "Create an image. Opaque, in the size and shape given. I attached our approved meadow scene: match its art style, colours, light and level of detail exactly. a warm, cosy children's library room: cream walls with soft stripes, a round window with daylight, a reading rug, a little ladder and plants at the sides, warm honey wood floor. NO bookshelves in the middle: the middle is a plain cream wall (our shelves go there). Keep the middle of the picture calm and open: our app puts characters, words and buttons there, so no important detail in the centre and nothing busy behind it. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Recompose the attached matching landscape scene into portrait; preserve the room, objects, colours and lighting, with the same calm open centre. Output exactly 1024x1536 pixels as a PNG at the highest available quality.",
+    "references": [
+      "assets/approved/world/scene_meadow_land.png",
+      "assets/approved/world/scene_library_land.png"
+    ],
+    "output_path": "assets/approved/world/scene_library_port.png",
+    "width": 1024,
+    "height": 1536,
+    "transparent_background": false
+  },
+  {
+    "asset_name": "scene_treasure_room_land",
+    "prompt": "Create an image. Opaque, in the size and shape given. I attached our approved meadow scene: match its art style, colours, light and level of detail exactly. a magical treasure room for a child's keepsakes: plum walls with soft gold arches, a few small open treasure chests with gentle light and stars at the far sides, a soft rose rug on a warm floor. The middle is calm and open. Keep the middle of the picture calm and open: our app puts characters, words and buttons there, so no important detail in the centre and nothing busy behind it. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1536x1024 pixels as a PNG at the highest available quality.",
+    "references": [
+      "assets/approved/world/scene_meadow_land.png"
+    ],
+    "output_path": "assets/approved/world/scene_treasure_room_land.png",
+    "width": 1536,
+    "height": 1024,
+    "transparent_background": false
+  },
+  {
+    "asset_name": "scene_treasure_room_port",
+    "prompt": "Create an image. Opaque, in the size and shape given. I attached our approved meadow scene: match its art style, colours, light and level of detail exactly. a magical treasure room for a child's keepsakes: plum walls with soft gold arches, a few small open treasure chests with gentle light and stars at the far sides, a soft rose rug on a warm floor. The middle is calm and open. Keep the middle of the picture calm and open: our app puts characters, words and buttons there, so no important detail in the centre and nothing busy behind it. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Recompose the attached matching landscape scene into portrait; preserve the room, objects, colours and lighting, with the same calm open centre. Output exactly 1024x1536 pixels as a PNG at the highest available quality.",
+    "references": [
+      "assets/approved/world/scene_meadow_land.png",
+      "assets/approved/world/scene_treasure_room_land.png"
+    ],
+    "output_path": "assets/approved/world/scene_treasure_room_port.png",
+    "width": 1024,
+    "height": 1536,
+    "transparent_background": false
+  },
+  {
+    "asset_name": "ui_sticker_album_open",
+    "prompt": "Create an image. Transparent background PNG (plain white if transparency fails), in the size and shape given. I attached an approved game icon; match its style, outline and glossy finish. A single object: an open sticker album seen straight from the front, filling the whole frame edge to edge: a soft purple (#614194) padded cover around two EMPTY cream pages, a gentle fold at the spine, three tiny decorative stars only in the corners of the cover. The pages are completely blank. Centred, filling about 95% of the frame, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1536x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_collection.png"
+    ],
+    "output_path": "assets/approved/ui/ui_sticker_album_open.png",
+    "width": 1536,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "mascot_directing",
+    "prompt": "Create an image. I attached the official mascot. Keep this exact character: same design, proportions, colours, glossy kawaii vector style, antenna with amber orb, dark blue screen face with sparkle eyes, pink cheeks, heart on the belly, stubby arms and feet. Change only the pose and expression: [POSE: standing side-on, one arm-flap raised and pointing forward like a friendly play director, the other on its hip] and [FACE: excited, sparkly eyes, big open smile]. Full body, centred, transparent background PNG (plain white if transparency fails), 1024×1024, no ground shadow, no props, no text, no letters, no other characters. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "brand/mascot/default/png/IMG_9937.png",
+      "assets/approved/mascot/mascot_idle.png"
+    ],
+    "output_path": "assets/approved/mascot/mascot_directing.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "mascot_holding_album",
+    "prompt": "Create an image. I attached the official mascot. Keep this exact character: same design, proportions, colours, glossy kawaii vector style, antenna with amber orb, dark blue screen face with sparkle eyes, pink cheeks, heart on the belly, stubby arms and feet. Change only the pose and expression: [POSE: hugging a small closed purple album to its chest with both arm-flaps] and [FACE: proud and happy, eyes curved, warm smile]. Full body, centred, transparent background PNG (plain white if transparency fails), 1024×1024, no ground shadow, only the specified book or album as a prop, no text, no letters, no other characters. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "brand/mascot/default/png/IMG_9937.png",
+      "assets/approved/mascot/mascot_idle.png"
+    ],
+    "output_path": "assets/approved/mascot/mascot_holding_album.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "mascot_thinking",
+    "prompt": "Create an image. I attached the official mascot and an approved pose of it. Keep this exact character: same design, proportions, colours, glossy kawaii vector style, antenna with amber orb, dark blue screen face with sparkle eyes, pink cheeks, heart on the belly, stubby arms and feet. Change only the pose and expression: [POSE: standing, one arm-flap raised to touch the bottom edge of its screen face like a hand on the chin, the antenna orb glowing a little brighter] and [FACE: eyes looking up and to the side, a small round \"o\" mouth, thoughtful and calm]. Full body, centred, transparent background PNG (plain white if transparency fails), 1024×1024, no ground shadow, no thought bubble, no symbols, no props, no text, no letters, no other characters. Flat 2D vector-style illustration for a children's mobile game, gentle glossy highlights, friendly kawaii style; not 3D, not photorealistic. No logos, no watermark. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "brand/mascot/default/png/IMG_9937.png",
+      "assets/approved/mascot/mascot_idle.png"
+    ],
+    "output_path": "assets/approved/mascot/mascot_thinking.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "mascot_speaking_half",
+    "prompt": "Create an image. I attached the official mascot, an approved pose of it, and its official happy face. Keep this exact character: same design, proportions, colours, glossy kawaii vector style, antenna with amber orb, dark blue screen face with sparkle eyes, pink cheeks, heart on the belly, stubby arms and feet. Change only the pose and expression: [POSE: standing facing the viewer, one arm-flap raised a little in a friendly explaining gesture, the other relaxed] and [FACE: warm open sparkle eyes, mouth half open as if in the middle of saying a word]. Full body, centred, transparent background PNG (plain white if transparency fails), 1024×1024, no ground shadow, no speech bubble, no props, no text, no letters, no other characters. Flat 2D vector-style illustration for a children's mobile game, gentle glossy highlights, friendly kawaii style; not 3D, not photorealistic. No logos, no watermark. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "brand/mascot/default/png/IMG_9937.png",
+      "assets/approved/mascot/mascot_idle.png",
+      "brand/feelings-expressions/png/face_happy.png"
+    ],
+    "output_path": "assets/approved/mascot/mascot_speaking_half.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "mascot_speaking_closed",
+    "prompt": "Edit the attached image. Same pose and body as the attached pose image, only the mouth changes: closed, a small soft smile. Keep everything else exactly identical: same size, same position in the frame, same eyes, cheeks, colours and highlights. Transparent background PNG (plain white if transparency fails), 1024×1024. No text, no letters, no other changes. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/mascot/mascot_speaking_half.png"
+    ],
+    "output_path": "assets/approved/mascot/mascot_speaking_closed.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "mascot_speaking_open",
+    "prompt": "Edit the attached image. Same pose and body as the attached pose image, only the mouth changes: wide open in a round, happy speaking shape. Keep everything else exactly identical: same size, same position in the frame, same eyes, cheeks, colours and highlights. Transparent background PNG (plain white if transparency fails), 1024×1024. No text, no letters, no other changes. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/mascot/mascot_speaking_half.png"
+    ],
+    "output_path": "assets/approved/mascot/mascot_speaking_open.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "mascot_reading",
+    "prompt": "Create an image. I attached the official mascot. Keep this exact character: same design, proportions, colours, glossy kawaii vector style, antenna with amber orb, dark blue screen face with sparkle eyes, pink cheeks, heart on the belly, stubby arms and feet. Change only the pose and expression: [POSE: holding an open storybook in front of its belly with both arm-flaps] and [FACE: happy, sparkly eyes looking up, small open smile]. Full body, centred, transparent background PNG (plain white if transparency fails), 1024×1024, no ground shadow, only the specified book or album as a prop, no text, no letters, no other characters. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "brand/mascot/default/png/IMG_9937.png",
+      "assets/approved/mascot/mascot_idle.png"
+    ],
+    "output_path": "assets/approved/mascot/mascot_reading.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "ui_story_wand",
+    "prompt": "Create an image. Transparent background PNG (plain white if transparency fails), in the size and shape given. I attached an approved game icon; match its style, outline and glossy finish. A single object: a friendly magic wand with a soft amber star on top and three tiny sparkles. Centred, filling about 85% of the frame, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_stories.png"
+    ],
+    "output_path": "assets/approved/ui/ui_story_wand.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_hero_fox",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a small orange fox with a fluffy white-tipped tail, standing proudly. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_hero_fox.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_hero_bear",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a round, cuddly brown bear cub waving. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_hero_bear.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_hero_bunny",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a little white bunny with long floppy ears, mid-hop. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_hero_bunny.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_hero_owl",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a small fluffy grey owl with big round amber eyes. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_hero_owl.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_hero_turtle",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a little green turtle with a shiny patterned shell. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_hero_turtle.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_hero_dragon",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a tiny friendly purple dragon with small round wings, no sharp teeth. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_hero_dragon.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_hero_cat",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a small striped grey kitten with a curly tail. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_hero_cat.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_hero_penguin",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a small round penguin with a sky-blue scarf. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_hero_penguin.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_place_forest",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: three soft round trees with a glowing flower and a mushroom. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_place_forest.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_place_beach",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a striped beach umbrella on sand with a gentle wave and a shell. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_place_beach.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_place_space",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a ringed planet, a little rocket and two stars. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_place_space.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_place_castle",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a small pastel castle floating on a soft cloud. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_place_castle.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_place_garden",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a flower bed with a tiny pond and a butterfly. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_place_garden.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_place_underwater",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: coral, bubbles and a small friendly fish. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_place_underwater.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_adv_lost_toy",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a soft teddy bear peeking out from behind a big green leaf. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_adv_lost_toy.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_adv_new_friend",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: two different little animals waving hello to each other. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_adv_new_friend.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_adv_big_race",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a small finish ribbon stretched between two little flags. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_adv_big_race.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_adv_birthday",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a small cake with one candle, two balloons and a wrapped present. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_adv_birthday.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_adv_storm",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a cosy little house window with rain and a soft lightning cloud outside, warm light inside. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_adv_storm.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "story_adv_first_day",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved game icon; match its style, outline and glossy finish exactly. A single chunky icon picture: a small backpack next to an open door with sunshine coming in. Bold, simple, big shapes, easy to recognise at 96 px. Centred, filling about 80% of the frame, no tile behind it, no ground shadow. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/like_animals.png"
+    ],
+    "output_path": "assets/approved/ui/story_adv_first_day.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "face_worried",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached two official brand feeling faces; keep exactly their design (the dark blue rounded screen-face shape, outline, sparkle eyes, pink cheeks, glossy finish). Change only the expression to worried: eyebrows raised in the middle, small wobbly mouth. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "brand/feelings-expressions/png/face_happy.png",
+      "brand/feelings-expressions/png/face_sad.png"
+    ],
+    "output_path": "brand/feelings-expressions/png/face_worried.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "face_proud",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached two official brand feeling faces; keep exactly their design (the dark blue rounded screen-face shape, outline, sparkle eyes, pink cheeks, glossy finish). Change only the expression to proud: eyes happily closed, big confident smile. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "brand/feelings-expressions/png/face_happy.png",
+      "brand/feelings-expressions/png/face_sad.png"
+    ],
+    "output_path": "brand/feelings-expressions/png/face_proud.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "face_lonely",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached two official brand feeling faces; keep exactly their design (the dark blue rounded screen-face shape, outline, sparkle eyes, pink cheeks, glossy finish). Change only the expression to lonely: eyes looking down to the side, small sad mouth. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "brand/feelings-expressions/png/face_happy.png",
+      "brand/feelings-expressions/png/face_sad.png"
+    ],
+    "output_path": "brand/feelings-expressions/png/face_lonely.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "face_jealous",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached two official brand feeling faces; keep exactly their design (the dark blue rounded screen-face shape, outline, sparkle eyes, pink cheeks, glossy finish). Change only the expression to jealous: eyes looking sideways, small pout. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "brand/feelings-expressions/png/face_happy.png",
+      "brand/feelings-expressions/png/face_sad.png"
+    ],
+    "output_path": "brand/feelings-expressions/png/face_jealous.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "place_park_map_h",
+    "prompt": "Create an image. Wide 3:2 landscape game map, opaque (no transparency needed). I attached our approved world map: match its art style, colours, camera angle (soft three-quarter top-down), lighting from the top-left and level of detail exactly. This is the inside map of one place, the Park: a sunny park seen from above: a swing set under a big tree, a calm pond with lily pads and a little wooden bridge, an open lawn with a small goal for ball games, a picnic blanket area and a quiet bench under a tree. A single wide, smooth light-beige path enters at the middle of the left edge and leaves at the middle of the right edge, winding gently up and down. Along the path are exactly 5 large, flat, EMPTY round stone pads (the same stone pads as on the attached map), evenly spaced, with nothing standing on them and open space around each pad. Leave a calm, mostly plain strip at the very top for a name sign. No people, no animals, no characters. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. Output exactly 1536x1024 pixels as a PNG at the highest available quality.",
+    "references": [
+      "assets/approved/map/global_horizental.png"
+    ],
+    "output_path": "assets/approved/place/place_park_map_h.png",
+    "width": 1536,
+    "height": 1024,
+    "transparent_background": false
+  },
+  {
+    "asset_name": "place_park_map_v",
+    "prompt": "Create an image. Tall 2:3 portrait game map, opaque (no transparency needed). I attached our approved world map: match its art style, colours, camera angle (soft three-quarter top-down), lighting from the top-left and level of detail exactly. This is the inside map of one place, the Park: a sunny park seen from above: a swing set under a big tree, a calm pond with lily pads and a little wooden bridge, an open lawn with a small goal for ball games, a picnic blanket area and a quiet bench under a tree. A single wide, smooth light-beige path enters at the middle of the bottom edge and leaves at the middle of the top edge, winding gently left and right. Along the path are exactly 5 large, flat, EMPTY round stone pads (the same stone pads as on the attached map), evenly spaced, with nothing standing on them and open space around each pad. Leave a calm, mostly plain strip at the very top for a name sign. No people, no animals, no characters. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. Output exactly 1024x1536 pixels as a PNG at the highest available quality.",
+    "references": [
+      "assets/approved/map/global_vertical.png"
+    ],
+    "output_path": "assets/approved/place/place_park_map_v.png",
+    "width": 1024,
+    "height": 1536,
+    "transparent_background": false
+  },
+  {
+    "asset_name": "loading_place_park",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached our approved map and an approved icon; match their style. A single friendly object picture, centred, filling about 80% of the frame, no scene and no background shape: a friendly park entrance: a rounded arch of leaves and flowers over a path, with a small bush on each side. Welcoming and calm. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/map/global_horizental.png",
+      "assets/approved/ui/dock_map.png"
+    ],
+    "output_path": "assets/approved/place/loading_place_park.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_park_1",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: a wooden swing hanging from a tree branch. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png"
+    ],
+    "output_path": "assets/approved/level/level_park_1.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_park_2",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: a small round pond with lily pads and one pink water flower. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png",
+      "assets/approved/level/level_park_1.png"
+    ],
+    "output_path": "assets/approved/level/level_park_2.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_park_3",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: a soft ball in front of a small goal net. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png",
+      "assets/approved/level/level_park_1.png"
+    ],
+    "output_path": "assets/approved/level/level_park_3.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_park_4",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: a picnic basket on a checked blanket with two apples. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png",
+      "assets/approved/level/level_park_1.png"
+    ],
+    "output_path": "assets/approved/level/level_park_4.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_park_5",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: a small park bench with a soft pink heart floating above it. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png",
+      "assets/approved/level/level_park_1.png"
+    ],
+    "output_path": "assets/approved/level/level_park_5.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "place_school_map_h",
+    "prompt": "Create an image. Wide 3:2 landscape game map, opaque (no transparency needed). I attached our approved world map: match its art style, colours, camera angle (soft three-quarter top-down), lighting from the top-left and level of detail exactly. This is the inside map of one place, the School: a friendly school yard seen from above: the school entrance with a clock, a classroom window with desks inside, a playground with a slide, a reading corner bench with books, and a few small trees. A single wide, smooth light-beige path enters at the middle of the left edge and leaves at the middle of the right edge, winding gently up and down. Along the path are exactly 5 large, flat, EMPTY round stone pads (the same stone pads as on the attached map), evenly spaced, with nothing standing on them and open space around each pad. Leave a calm, mostly plain strip at the very top for a name sign. No people, no animals, no characters. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. Output exactly 1536x1024 pixels as a PNG at the highest available quality.",
+    "references": [
+      "assets/approved/map/global_horizental.png"
+    ],
+    "output_path": "assets/approved/place/place_school_map_h.png",
+    "width": 1536,
+    "height": 1024,
+    "transparent_background": false
+  },
+  {
+    "asset_name": "place_school_map_v",
+    "prompt": "Create an image. Tall 2:3 portrait game map, opaque (no transparency needed). I attached our approved world map: match its art style, colours, camera angle (soft three-quarter top-down), lighting from the top-left and level of detail exactly. This is the inside map of one place, the School: a friendly school yard seen from above: the school entrance with a clock, a classroom window with desks inside, a playground with a slide, a reading corner bench with books, and a few small trees. A single wide, smooth light-beige path enters at the middle of the bottom edge and leaves at the middle of the top edge, winding gently left and right. Along the path are exactly 5 large, flat, EMPTY round stone pads (the same stone pads as on the attached map), evenly spaced, with nothing standing on them and open space around each pad. Leave a calm, mostly plain strip at the very top for a name sign. No people, no animals, no characters. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. Output exactly 1024x1536 pixels as a PNG at the highest available quality.",
+    "references": [
+      "assets/approved/map/global_vertical.png"
+    ],
+    "output_path": "assets/approved/place/place_school_map_v.png",
+    "width": 1024,
+    "height": 1536,
+    "transparent_background": false
+  },
+  {
+    "asset_name": "loading_place_school",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached our approved map and an approved icon; match their style. A single friendly object picture, centred, filling about 80% of the frame, no scene and no background shape: the friendly double doors of a school entrance with a round clock above them and two small bushes. Welcoming and calm. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/map/global_horizental.png",
+      "assets/approved/ui/dock_map.png"
+    ],
+    "output_path": "assets/approved/place/loading_place_school.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_school_1",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: a new school bag with a ribbon tied on it. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png"
+    ],
+    "output_path": "assets/approved/level/level_school_1.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_school_2",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: a pencil lying on a blank sheet of paper on a small desk (the paper is completely blank). Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png",
+      "assets/approved/level/level_school_1.png"
+    ],
+    "output_path": "assets/approved/level/level_school_2.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_school_3",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: one small chair standing a little apart from a cosy circle of chairs. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png",
+      "assets/approved/level/level_school_1.png"
+    ],
+    "output_path": "assets/approved/level/level_school_3.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_school_4",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: two kites flying side by side with their strings crossing. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png",
+      "assets/approved/level/level_school_1.png"
+    ],
+    "output_path": "assets/approved/level/level_school_4.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_school_5",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: two block towers next to each other, one leaning, with a small calm cloud above. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png",
+      "assets/approved/level/level_school_1.png"
+    ],
+    "output_path": "assets/approved/level/level_school_5.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "place_club_map_h",
+    "prompt": "Create an image. Wide 3:2 landscape game map, opaque (no transparency needed). I attached our approved world map: match its art style, colours, camera angle (soft three-quarter top-down), lighting from the top-left and level of detail exactly. This is the inside map of one place, the Club: a colourful activity club seen from above: a music corner with drums, an art corner with an easel, a small sports yard, a group circle of cushions, and a little stage with curtains. A single wide, smooth light-beige path enters at the middle of the left edge and leaves at the middle of the right edge, winding gently up and down. Along the path are exactly 5 large, flat, EMPTY round stone pads (the same stone pads as on the attached map), evenly spaced, with nothing standing on them and open space around each pad. Leave a calm, mostly plain strip at the very top for a name sign. No people, no animals, no characters. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. Output exactly 1536x1024 pixels as a PNG at the highest available quality.",
+    "references": [
+      "assets/approved/map/global_horizental.png"
+    ],
+    "output_path": "assets/approved/place/place_club_map_h.png",
+    "width": 1536,
+    "height": 1024,
+    "transparent_background": false
+  },
+  {
+    "asset_name": "place_club_map_v",
+    "prompt": "Create an image. Tall 2:3 portrait game map, opaque (no transparency needed). I attached our approved world map: match its art style, colours, camera angle (soft three-quarter top-down), lighting from the top-left and level of detail exactly. This is the inside map of one place, the Club: a colourful activity club seen from above: a music corner with drums, an art corner with an easel, a small sports yard, a group circle of cushions, and a little stage with curtains. A single wide, smooth light-beige path enters at the middle of the bottom edge and leaves at the middle of the top edge, winding gently left and right. Along the path are exactly 5 large, flat, EMPTY round stone pads (the same stone pads as on the attached map), evenly spaced, with nothing standing on them and open space around each pad. Leave a calm, mostly plain strip at the very top for a name sign. No people, no animals, no characters. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. Output exactly 1024x1536 pixels as a PNG at the highest available quality.",
+    "references": [
+      "assets/approved/map/global_vertical.png"
+    ],
+    "output_path": "assets/approved/place/place_club_map_v.png",
+    "width": 1024,
+    "height": 1536,
+    "transparent_background": false
+  },
+  {
+    "asset_name": "loading_place_club",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached our approved map and an approved icon; match their style. A single friendly object picture, centred, filling about 80% of the frame, no scene and no background shape: a small stage with soft curtains just opening and bunting above it. Welcoming and calm. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/map/global_horizental.png",
+      "assets/approved/ui/dock_map.png"
+    ],
+    "output_path": "assets/approved/place/loading_place_club.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_club_1",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: a circle of soft floor cushions with one cushion slightly apart, inviting. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png"
+    ],
+    "output_path": "assets/approved/level/level_club_1.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_club_2",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: a small drum and a xylophone side by side. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png",
+      "assets/approved/level/level_club_1.png"
+    ],
+    "output_path": "assets/approved/level/level_club_2.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_club_3",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: an easel with a canvas showing a simple sun and a paint palette (no letters). Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png",
+      "assets/approved/level/level_club_1.png"
+    ],
+    "output_path": "assets/approved/level/level_club_3.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_club_4",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: a soft ball and two small team flags without any symbols. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png",
+      "assets/approved/level/level_club_1.png"
+    ],
+    "output_path": "assets/approved/level/level_club_4.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_club_5",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: a microphone on a stand in front of small stage curtains. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png",
+      "assets/approved/level/level_club_1.png"
+    ],
+    "output_path": "assets/approved/level/level_club_5.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "place_market_map_h",
+    "prompt": "Create an image. Wide 3:2 landscape game map, opaque (no transparency needed). I attached our approved world map: match its art style, colours, camera angle (soft three-quarter top-down), lighting from the top-left and level of detail exactly. This is the inside map of one place, the Market: a friendly outdoor market seen from above: fruit and vegetable stalls with striped awnings, a toy stall, a small flower stall, a fountain in a little square, and a short queue area with soft rope posts. A single wide, smooth light-beige path enters at the middle of the left edge and leaves at the middle of the right edge, winding gently up and down. Along the path are exactly 5 large, flat, EMPTY round stone pads (the same stone pads as on the attached map), evenly spaced, with nothing standing on them and open space around each pad. Leave a calm, mostly plain strip at the very top for a name sign. No people, no animals, no characters. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. Output exactly 1536x1024 pixels as a PNG at the highest available quality.",
+    "references": [
+      "assets/approved/map/global_horizental.png"
+    ],
+    "output_path": "assets/approved/place/place_market_map_h.png",
+    "width": 1536,
+    "height": 1024,
+    "transparent_background": false
+  },
+  {
+    "asset_name": "place_market_map_v",
+    "prompt": "Create an image. Tall 2:3 portrait game map, opaque (no transparency needed). I attached our approved world map: match its art style, colours, camera angle (soft three-quarter top-down), lighting from the top-left and level of detail exactly. This is the inside map of one place, the Market: a friendly outdoor market seen from above: fruit and vegetable stalls with striped awnings, a toy stall, a small flower stall, a fountain in a little square, and a short queue area with soft rope posts. A single wide, smooth light-beige path enters at the middle of the bottom edge and leaves at the middle of the top edge, winding gently left and right. Along the path are exactly 5 large, flat, EMPTY round stone pads (the same stone pads as on the attached map), evenly spaced, with nothing standing on them and open space around each pad. Leave a calm, mostly plain strip at the very top for a name sign. No people, no animals, no characters. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. Output exactly 1024x1536 pixels as a PNG at the highest available quality.",
+    "references": [
+      "assets/approved/map/global_vertical.png"
+    ],
+    "output_path": "assets/approved/place/place_market_map_v.png",
+    "width": 1024,
+    "height": 1536,
+    "transparent_background": false
+  },
+  {
+    "asset_name": "loading_place_market",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached our approved map and an approved icon; match their style. A single friendly object picture, centred, filling about 80% of the frame, no scene and no background shape: the striped awning of a friendly market stall with fruit baskets underneath. Welcoming and calm. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/map/global_horizental.png",
+      "assets/approved/ui/dock_map.png"
+    ],
+    "output_path": "assets/approved/place/loading_place_market.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_market_1",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: two soft rope posts with a rope between them, like a small queue line. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png"
+    ],
+    "output_path": "assets/approved/level/level_market_1.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_market_2",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: a shiny toy car behind a shop window. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png",
+      "assets/approved/level/level_market_1.png"
+    ],
+    "output_path": "assets/approved/level/level_market_2.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_market_3",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: a round friendly compass with a heart instead of a needle tip. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png",
+      "assets/approved/level/level_market_1.png"
+    ],
+    "output_path": "assets/approved/level/level_market_3.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_market_4",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: a small coin purse next to a red apple. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png",
+      "assets/approved/level/level_market_1.png"
+    ],
+    "output_path": "assets/approved/level/level_market_4.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "level_market_5",
+    "prompt": "Create an image. Square 1:1, transparent background. I attached an approved icon; match its style exactly. A single game icon object, centred, filling about 80% of the frame, no tile or background shape: a small bouquet of flowers tied with a ribbon. Chunky, rounded, easy to read at small size. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights on characters, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no extra characters. No people. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "assets/approved/ui/dock_map.png",
+      "assets/approved/level/level_market_1.png"
+    ],
+    "output_path": "assets/approved/level/level_market_5.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  },
+  {
+    "asset_name": "mascot_excited",
+    "prompt": "Create an image. I attached the official mascot, an approved pose of it, and its official excited face. Keep this exact character: same design, proportions, colours, glossy kawaii vector style, antenna with amber orb, dark blue screen face with sparkle eyes, pink cheeks, heart on the belly, stubby arms and feet. Change only the pose and expression: [POSE: a small happy hop with both feet just off the ground, both arm-flaps raised high, antenna bouncing] and [FACE: the attached excited face exactly: big sparkle eyes and an open smile]. Full body, centred, transparent background PNG (plain white if transparency fails), 1024×1024, no ground shadow, no motion lines, no confetti, no props, no text, no letters, no other characters. Flat 2D vector-style illustration for a children's mobile game, gentle glossy highlights, friendly kawaii style; not 3D, not photorealistic. No logos, no watermark. Output exactly 1024x1024 pixels as a PNG at the highest available quality. Use genuine alpha transparency, never a drawn checkerboard or white background.",
+    "references": [
+      "brand/mascot/default/png/IMG_9937.png",
+      "assets/approved/mascot/mascot_idle.png",
+      "brand/feelings-expressions/png/face_excited.png"
+    ],
+    "output_path": "assets/approved/mascot/mascot_excited.png",
+    "width": 1024,
+    "height": 1024,
+    "transparent_background": true
+  }
+]

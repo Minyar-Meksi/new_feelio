@@ -1,0 +1,22 @@
+{
+  "scene_talk_nook_land": {
+    "prompt": "Create an image. Opaque PNG, 1536x1024 landscape. I attached our approved meadow scene: match its art style, colours, light and level of detail exactly. A cosy little nook at dusk: a round window with a deep lilac evening sky and first stars, a big soft floor cushion, a warm glowing lamp to one side, a few hanging paper stars. Quiet and safe. Keep the middle of the picture calm and open: our app puts characters, words and buttons there, so no important detail in the centre and nothing busy behind it. Flat 2D vector-style illustration for a children's mobile game, soft pastel gradients, clean rounded shapes, gentle glossy highlights, minimal shading, friendly kawaii style; not 3D, not photorealistic. Palette: amber #F3B03A, rose #C4557C, purple #614194, sky blue #79B1DE, with tints #FFE6BA, #FFD8E6, #EFCFF8, #D4ECFF, plus fresh natural greens. Culturally neutral. No text, no letters, no numbers, no logos, no watermark, no people. Generate at the highest available quality."
+  },
+  "face_proud": {
+    "edit_reference": "C:\\Users\\Menyar\\.codex\\generated_images\\01a13183-b278-7c41-846f-a782f7ed32de\\exec-0b0eaee5-2bb3-4ef5-ba69-45ca9d461b10.png",
+    "edit_prompt": "Edit the attached proud face image. Remove ONLY the four amber decorative rays outside the blue face. Those outside pixels must become genuine alpha transparency. Keep the blue screen-face silhouette, position, gradients, closed happy eyes, pink cheeks and big confident smile exactly unchanged. No extra objects, sparkles, symbols, text, letters or watermark. Preserve the square canvas and transparency. Highest available quality PNG."
+  },
+  "mouth_frame_exception": {
+    "user_decision": "Keep the generated frames and flag the pixel differences",
+    "closed": {
+      "samples_outside_mouth": 8052,
+      "changed_samples_over_total_channel_delta_24": 515,
+      "mean_channel_error": 3.951595876800795
+    },
+    "open": {
+      "samples_outside_mouth": 8045,
+      "changed_samples_over_total_channel_delta_24": 904,
+      "mean_channel_error": 3.928091982597887
+    }
+  }
+}
